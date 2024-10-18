@@ -45,3 +45,5 @@ propsfile
 cacerts
 VERSION
 env.json
+.idea/.gitignore
+.idea/vcs.xml
